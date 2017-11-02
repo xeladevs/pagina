@@ -1,0 +1,36 @@
+#mobile{
+  color:rgb(15, 84, 166);
+}
+#monitor{
+  color:rgb(16, 185, 178);
+}
+#corazon{
+  color:rgb(213, 78, 78);
+}
+#pincel{
+  color: #b83636;
+}
+#cohete{
+  color: rgb(37, 147, 54);
+}
+#hoja{
+  color: green;
+}
+#face{
+  color: black;
+}
+#face:hover{
+  color: #3b5998;
+}
+#twitter{
+  color: black;
+}
+#twitter:hover{
+  color: #55acee;
+}
+#instagram{
+  color: black;
+}
+#instagram:hover{
+  color: #cd486b;
+}

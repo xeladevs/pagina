@@ -1,0 +1,24 @@
+@font-face {
+font-family: 'Pacifico';
+src: url('../fonts/Pacifico/Pacifico-Regular.ttf');
+}
+body{
+  position: relative;
+}
+.slider{
+  background: url('../images/res.jpg');
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  color: black;
+  font-family: 'Pacifico';
+}
+.encabezado{
+  color:white;
+}
+.tituloP{
+  font-size: 23px;
+}
+#sitios{
+  width: 250px;
+}
